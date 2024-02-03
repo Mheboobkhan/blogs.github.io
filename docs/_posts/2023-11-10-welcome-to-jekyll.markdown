@@ -5,4 +5,4 @@ date:   2023-11-10 03:59:41 +0530
 categories: jekyll update
 ---
 
-This is the first ever blog on this site dedicated to the all good people who have lost their existence in this cruel world... 
+Behold, the inaugural entry on this sacred cyber haven, a tribute to the noble men who've vanished amidst the harsh realms of our unforgiving world.
